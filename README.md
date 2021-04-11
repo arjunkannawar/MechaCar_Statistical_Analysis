@@ -11,7 +11,7 @@
 ## Summary Statistics on Suspension Coils
 ####
 ####
-#### From the Lot_summary table, we can see that, Lot 1 and Lot 2 have cleared the design specification permissible limits. Amongst all the lots, Lot 1 seems to be performing the best and Lot 2 is a close second. However, Lot 3 is not inline with the design specifications.
+#### From the Lot_summary table (https://github.com/arjunkannawar/MechaCar_Statistical_Analysis/blob/main/Lot_Summary.png), we can see that, Lot 1 and Lot 2 have cleared the design specification permissible limits. Amongst all the lots, Lot 1 seems to be performing the best and Lot 2 is a close second. However, Lot 3 is not inline with the design specifications.
 #### It is evident from the Lot_summary table that the Variance for Lot 3 exceeds the design specification permissible limit of 100 pounds per square inch and therefore cannot be cleared.
 
 ## T-Tests on Suspension Coils
