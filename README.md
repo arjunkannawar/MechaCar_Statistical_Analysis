@@ -23,7 +23,7 @@
 
 ## Study Design: MechaCar vs Competition
 
-#### 1. The metrcis needed would be Vehicle_length, vehicle_weight, AWD, Spoiler Angle, Groung clearance and mpg of MechaCar and the competition brand. The more Metrics we can have access to, the better the analysis.
+#### 1. The more Metrics we can have access to, the better the analysis. The metrics needed, for example, would be Vehicle_length, vehicle_weight, AWD, Spoiler Angle, Groung clearance and mpg etc. for MechaCar and the competition brand. 
 
 #### 2. Null Hypothesis: There is no statistical differnce between the PSI of MechaCar performace vs the competition brand performance
 #### 2. Alternate Hypthesis: There is a Statustical difference betwee th PSI of MechaCar perfomrace vs the competition brand performance
