@@ -9,15 +9,13 @@
 #### The Multiple R-squared value is 0.7149, which states that effectively predicts hte mpg of MechaCar Prototype. It will stary true for 71% of the time.
 
 ## Summary Statistics on Suspension Coils
-####
-####
 #### From the Lot_summary table (https://github.com/arjunkannawar/MechaCar_Statistical_Analysis/blob/main/Lot_Summary.png), we can see that, Lot 1 and Lot 2 have cleared the design specification permissible limits. Amongst all the lots, Lot 1 seems to be performing the best and Lot 2 is a close second. However, Lot 3 is not inline with the design specifications.
 #### It is evident from the Lot_summary table (https://github.com/arjunkannawar/MechaCar_Statistical_Analysis/blob/main/Lot_Summary.png) that the Variance for Lot 3 exceeds the design specification permissible limit of 100 pounds per square inch and therefore cannot be cleared.
 
 ## T-Tests on Suspension Coils
 
-### The Null Hypothesis is that, "There is no statistical difference between the PSI of all the manufacturing lots in the observed sample mean and the poulation mean."
-### The Alternate Hypothesis is that, "There is a statistical difference between the the PSI of all the manufacturing lots in the observed sample mean and its presumed population mean."
+#### The Null Hypothesis is that, "There is no statistical difference between the PSI of all the manufacturing lots in the observed sample mean and the poulation mean."
+#### The Alternate Hypothesis is that, "There is a statistical difference between the the PSI of all the manufacturing lots in the observed sample mean and its presumed population mean."
 
 #### For the comparison between the Mean of a sample vs the the population mean of all the lots included is 0.9096. Hence, we do not have sufficient evidence to reject the null hypothesis, and we can state that the two means are statistically similar.
 
