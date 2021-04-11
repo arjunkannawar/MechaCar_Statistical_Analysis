@@ -20,3 +20,14 @@
 ### The Alternate Hypothesis is that, "There is a statistical difference between the the PSI of all the manufacturing lots in the observed sample mean and its presumed population mean."
 
 #### For the comparison between the Mean of a sample vs the the population mean of all the lots included is 0.9096. Hence, we do not have sufficient evidence to reject the null hypothesis, and we can state that the two means are statistically similar.
+
+## Study Design: MechaCar vs Competition
+
+#### 1. The metrcis needed would be Vehicle_length, vehicle_weight, AWD, Spoiler Angle, Groung clearance and mpg of MechaCar and the competition brand. The more Metrics we can have access to, the better the analysis.
+
+#### 2. Null Hypothesis: There is no statistical differnce between the PSI of MechaCar performace vs the competition brand performance
+#### 2. Alternate Hypthesis: There is a Statustical difference betwee th PSI of MechaCar perfomrace vs the competition brand performance
+
+#### 3. I would use the MUltiple linear regression and the t.test to compare the performcae of the respective parameters.
+
+#### 4. We need the Data for the mEtrcis mentioned in above for MechaCara nd the competition brand to compare the performances.
