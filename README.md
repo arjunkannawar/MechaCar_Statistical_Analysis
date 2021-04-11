@@ -24,7 +24,7 @@
 #### 1. The more Metrics we can have access to, the better the analysis. The metrics needed, for example, would be Vehicle_length, vehicle_weight, AWD, Spoiler Angle, Groung clearance and mpg etc. for MechaCar and the competition brand. 
 
 #### 2. Null Hypothesis: There is no statistical differnce between the PSI of MechaCar performace vs the competition brand performance
-#### 2. Alternate Hypthesis: There is a Statustical difference betwee th PSI of MechaCar perfomrace vs the competition brand performance
+#### Alternate Hypthesis: There is a Statustical difference betwee th PSI of MechaCar perfomrace vs the competition brand performance
 
 #### 3. I would use the MUltiple linear regression and the t.test to compare the performcae of the respective parameters.
 
